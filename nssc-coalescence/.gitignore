@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Environments and editors
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+
+# Script outputs (written next to the JSON file)
+examples/*.png
+*_text_file.txt
+*_stats.txt
+
+# Local ms executable
+msdir/

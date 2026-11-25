@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the article below."
+title: "nssc-coalescence: coalescence times under the non-stationary structured coalescent"
+type: software
+license: MIT
+authors:
+  - family-names: "Jouniaux"
+    given-names: "A."
+preferred-citation:
+  type: article
+  title: "Extending the IICR to complex nonstationary structured models"
+  authors:
+    - family-names: "Jouniaux"
+      given-names: "A."
+    - family-names: "Arredondo"
+      given-names: "A."
+    - family-names: "Boitard"
+      given-names: "S."
+    - family-names: "Chikhi"
+      given-names: "L."
+    - family-names: "Mazet"
+      given-names: "O."
+  journal: "Genetics"
+  volume: 232
+  issue: 4
+  start: "iyag040"
+  year: 2026
+  month: 4
+  doi: "10.1093/genetics/iyag040"
+references:
+  - type: software
+    title: "IICREstimator"
+    authors:
+      - family-names: "Rodríguez"
+        given-names: "Willy"
+    url: "https://github.com/willyrv/IICREstimator"
+  - type: software
+    title: "nssc-tools"
+    authors:
+      - family-names: "Rodríguez"
+        given-names: "Willy"
+    url: "https://github.com/willyrv/nssc-tools"
